@@ -30,7 +30,7 @@ After you're finished please remove all the comments and instructions!
   <img src="manage-logo.jpg" alt="logo" width="720"  height="auto" />
   <br/>
 
-  <h3><b>RecipeStash</b></h3>
+  <h3><b>Tailwind-Manage</b></h3>
 
 </div>
 
