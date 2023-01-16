@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-manage",
+  "version": "1.0.0",
+  "description": "<a name=\"readme-top\"></a>",
+  "main": "index.js",
+  "scripts": {
+    "build": "tailwindcss -i ./src/input.css -o ./dist/main.css",
+    "watch": "tailwindcss -i ./src/input.css -o ./dist/main.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZikaZaki/tailwind-manage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZikaZaki/tailwind-manage/issues"
+  },
+  "homepage": "https://github.com/ZikaZaki/tailwind-manage#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.4"
+  }
+}
