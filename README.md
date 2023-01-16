@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="manage-logo.webp" alt="logo" width="720"  height="auto" />
+  <img src="manage-logo.jpg" alt="logo" width="720"  height="auto" />
   <br/>
 
   <h3><b>Tailwind-Manage</b></h3>
