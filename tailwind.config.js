@@ -1,6 +1,6 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
-  content: ["./src/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
+  content: ["./js/**/*.{js,jsx,ts,tsx}", "./public/index.html"],
   theme: {
     screens: {
       sm: "640px",
@@ -18,7 +18,7 @@ module.exports = {
         veryDarkBlue: "hsl(233, 12%, 13%)",
         veryPaleRed: "hsl(13, 100%, 96%)",
         veryLightGray: "hsl(0, 0%, 98%)",
-      },
+      }
     },
   },
   plugins: [],

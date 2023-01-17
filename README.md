@@ -27,7 +27,7 @@ After you're finished please remove all the comments and instructions!
 
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="manage-logo.jpg" alt="logo" width="720"  height="auto" />
+  <img src="manage-logo.jpg" alt="logo" width="auto"  height="auto" />
   <br/>
 
   <h3><b>Tailwind-Manage</b></h3>
@@ -43,6 +43,9 @@ After you're finished please remove all the comments and instructions!
   - [🛠 Built With ](#-built-with-)
     - [Tech Stack ](#tech-stack-)
     - [Key Features ](#key-features-)
+  - [💻 Screenshots ](#-screenshots-)
+    - [Desktop-Screenshot](#desktop-screenshot)
+    - [Mobile-Screenshot](#mobile-screenshot)
   - [🚀 Live Demo ](#-live-demo-)
   - [💻 Getting Started ](#-getting-started-)
     - [Prerequisites](#prerequisites)
@@ -104,6 +107,29 @@ The **Tailwind-Manage** is a mobile-first responsive manage landing web page bui
 - **[Mobile-First Responsive Design]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- Screenshots -->
+
+## 💻 Screenshots <a name="screenshots"></a>
+### Desktop-Screenshot
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+  <img src="landingpage-desktop.png" alt="logo" width="auto"  height="auto" />
+  <br/>
+  
+---
+
+### Mobile-Screenshot
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+  <img src="landingpage-mobile.png" alt="logo" width="auto"  height="auto" />
+  <br/>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+---
 
 <!-- LIVE DEMO -->
 
